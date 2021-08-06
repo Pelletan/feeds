@@ -1,3 +1,13 @@
+[melody]
+title = "Melody TV"
+url = "https://www.melody.tv/actualites"
+entrySelector = ".col-content .card-item"
+titleSelector = "h4"
+linkSelector = "a.inner"
+contentSelector = ".card-content .text"
+dateSelector = ".card-content .date"
+dateFormat = "dd/MM/yyyy à KK:mm"
+
 [funfacts]
 title = "Wikipedia — did you know?"
 url = "https://en.wikipedia.org/wiki/Main_Page"
@@ -11,13 +21,3 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
-
-[melody]
-title = "Melody TV"
-url = "https://www.melody.tv/actualites"
-entrySelector = ".col-content .card-item"
-titleSelector = "h4"
-linkSelector = "a.inner"
-contentSelector = ".card-content .text"
-dateSelector = ".card-content .date"
-dateFormat = "dd/MM/yyyy à KK:mm"
