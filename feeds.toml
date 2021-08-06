@@ -20,4 +20,4 @@ titleSelector = "h4"
 linkSelector = "a.inner"
 contentSelector = ".card-content .text"
 dateSelector = ".card-content .date"
-dateFormat
+dateFormat = "dd/MM/yyyy à KK:mm"
