@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-08-10T17:37:00.513Z</updated>
+    <updated>2021-08-13T17:36:04.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Julien Lepers fête ses 72 ans, ce jeudi 12 août !]]></title>
+        <id>https://www.melody.tv/actualite/julien-lepers-fete-ses-72-ans-ce-jeudi-12-aout</id>
+        <link href="https://www.melody.tv/actualite/julien-lepers-fete-ses-72-ans-ce-jeudi-12-aout"/>
+        <updated>2021-08-12T09:26:00.000Z</updated>
+        <content type="html"><![CDATA[« C’est une question pour un champion ! », tout le...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album]]></title>
         <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
         <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-08-10T17:37:00.304Z</updated>
+        <updated>2021-08-13T17:36:01.342Z</updated>
         <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
     <entry>
@@ -72,7 +79,7 @@
         <title type="html"><![CDATA[Disparition de la réalisatrice Marion Sarraut, à l’âge de 82 ans]]></title>
         <id>https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans</id>
         <link href="https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans"/>
-        <updated>2021-08-10T17:37:00.325Z</updated>
+        <updated>2021-08-13T17:36:01.366Z</updated>
         <content type="html"><![CDATA[&nbsp;Célèbre pour ses shows de variétés et réalisatrice de&nbsp;« Numéro...]]></content>
     </entry>
     <entry>
@@ -107,7 +114,7 @@
         <title type="html"><![CDATA[Hélène Ségara sort « Karma », son 7e album]]></title>
         <id>https://www.melody.tv/actualite/helene-segara-sort-karma-son-7e-album</id>
         <link href="https://www.melody.tv/actualite/helene-segara-sort-karma-son-7e-album"/>
-        <updated>2021-08-10T17:37:00.338Z</updated>
+        <updated>2021-08-13T17:36:01.394Z</updated>
         <content type="html"><![CDATA[Hélène SEGARA revient&nbsp;avec&nbsp;un septième projet innovant,...]]></content>
     </entry>
     <entry>
@@ -116,12 +123,5 @@
         <link href="https://www.melody.tv/actualite/pourquoi-le-festival-de-cannes-a-t-il-failli-ne-jamais-voir-le-jour"/>
         <updated>2021-07-04T09:00:00.000Z</updated>
         <content type="html"><![CDATA[Nous sommes en 1938. À l’aube de la seconde guerre mondiale,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eddy Mitchell a 79 ans !]]></title>
-        <id>https://www.melody.tv/actualite/eddy-mitchell-a-79-ans</id>
-        <link href="https://www.melody.tv/actualite/eddy-mitchell-a-79-ans"/>
-        <updated>2021-07-03T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[L'un des plus grands noms de la chanson française célèbre...]]></content>
     </entry>
 </feed>
