@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-08-13T17:36:04.810Z</updated>
+    <updated>2021-08-16T05:31:57.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[La chanteuse Madonna fête ses 63 ans, ce lundi 16 août !]]></title>
+        <id>https://www.melody.tv/actualite/la-chanteuse-madonna-fete-ses-63-ans-ce-lundi-16-aout</id>
+        <link href="https://www.melody.tv/actualite/la-chanteuse-madonna-fete-ses-63-ans-ce-lundi-16-aout"/>
+        <updated>2021-08-16T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Déjà 63 ans pour l’incroyable chanteuse MADONNA dont la carrière&nbsp;a...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sylvie Vartan fête ses 77 ans, ce dimanche 15 août]]></title>
+        <id>https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout</id>
+        <link href="https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout"/>
+        <updated>2021-08-15T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Elle a enregistré 65 albums&nbsp;et 1500 chansons tout au long de...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le chanteur David Hallyday fête ses 55 ans]]></title>
+        <id>https://www.melody.tv/actualite/le-chanteur-david-hallyday-fete-ses-55-ans</id>
+        <link href="https://www.melody.tv/actualite/le-chanteur-david-hallyday-fete-ses-55-ans"/>
+        <updated>2021-08-14T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Le premier fils de Johnny HALLYDAY et de Sylvie VARTAN, passe...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Julien Lepers fête ses 72 ans, ce jeudi 12 août !]]></title>
         <id>https://www.melody.tv/actualite/julien-lepers-fete-ses-72-ans-ce-jeudi-12-aout</id>
@@ -16,7 +37,7 @@
         <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album]]></title>
         <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
         <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-08-13T17:36:01.342Z</updated>
+        <updated>2021-08-16T05:31:53.028Z</updated>
         <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
     <entry>
@@ -79,7 +100,7 @@
         <title type="html"><![CDATA[Disparition de la réalisatrice Marion Sarraut, à l’âge de 82 ans]]></title>
         <id>https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans</id>
         <link href="https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans"/>
-        <updated>2021-08-13T17:36:01.366Z</updated>
+        <updated>2021-08-16T05:31:53.049Z</updated>
         <content type="html"><![CDATA[&nbsp;Célèbre pour ses shows de variétés et réalisatrice de&nbsp;« Numéro...]]></content>
     </entry>
     <entry>
@@ -102,26 +123,5 @@
         <link href="https://www.melody.tv/actualite/ringo-starr-lex-batteur-des-beatles-a-81-ans"/>
         <updated>2021-07-07T09:00:00.000Z</updated>
         <content type="html"><![CDATA[C'est l'anniversaire de&nbsp;Ringo STARR&nbsp;! Mondialement connu pour...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheila : les premières dates de la tournée dévoilées !]]></title>
-        <id>https://www.melody.tv/actualite/sheila-les-premieres-dates-de-la-tournee-devoilees</id>
-        <link href="https://www.melody.tv/actualite/sheila-les-premieres-dates-de-la-tournee-devoilees"/>
-        <updated>2021-07-06T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[Après avoir annoncé deux concerts à Paris en 2022, SHEILA...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hélène Ségara sort « Karma », son 7e album]]></title>
-        <id>https://www.melody.tv/actualite/helene-segara-sort-karma-son-7e-album</id>
-        <link href="https://www.melody.tv/actualite/helene-segara-sort-karma-son-7e-album"/>
-        <updated>2021-08-13T17:36:01.394Z</updated>
-        <content type="html"><![CDATA[Hélène SEGARA revient&nbsp;avec&nbsp;un septième projet innovant,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pourquoi le Festival de Cannes a-t-il failli ne jamais voir le jour ?]]></title>
-        <id>https://www.melody.tv/actualite/pourquoi-le-festival-de-cannes-a-t-il-failli-ne-jamais-voir-le-jour</id>
-        <link href="https://www.melody.tv/actualite/pourquoi-le-festival-de-cannes-a-t-il-failli-ne-jamais-voir-le-jour"/>
-        <updated>2021-07-04T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[Nous sommes en 1938. À l’aube de la seconde guerre mondiale,...]]></content>
     </entry>
 </feed>
