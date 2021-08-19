@@ -2,7 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-08-19T05:31:55.337Z</updated>
+    <updated>2021-08-19T17:37:02.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Les albums de Madonna vont être réédité par Warner Music en 2022]]></title>
+        <id>https://www.melody.tv/actualite/les-albums-de-madonna-vont-etre-reedite-par-warner-music-en-2022</id>
+        <link href="https://www.melody.tv/actualite/les-albums-de-madonna-vont-etre-reedite-par-warner-music-en-2022"/>
+        <updated>2021-08-19T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Entre 2022 et 2025, 17 albums&nbsp;studio seront réédités&nbsp;par...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La chanteuse Madonna fête ses 63 ans, ce lundi 16 août !]]></title>
+        <id>https://www.melody.tv/actualite/la-chanteuse-madonna-fete-ses-63-ans-ce-lundi-16-aout</id>
+        <link href="https://www.melody.tv/actualite/la-chanteuse-madonna-fete-ses-63-ans-ce-lundi-16-aout"/>
+        <updated>2021-08-16T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Déjà 63 ans pour l’incroyable chanteuse MADONNA dont la carrière&nbsp;a...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sylvie Vartan fête ses 77 ans, ce dimanche 15 août]]></title>
+        <id>https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout</id>
+        <link href="https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout"/>
+        <updated>2021-08-15T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Elle a enregistré 65 albums&nbsp;et 1500 chansons tout au long de...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le chanteur David Hallyday fête ses 55 ans]]></title>
+        <id>https://www.melody.tv/actualite/le-chanteur-david-hallyday-fete-ses-55-ans</id>
+        <link href="https://www.melody.tv/actualite/le-chanteur-david-hallyday-fete-ses-55-ans"/>
+        <updated>2021-08-14T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Le premier fils de Johnny HALLYDAY et de Sylvie VARTAN, passe...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julien Lepers fête ses 72 ans, ce jeudi 12 août !]]></title>
+        <id>https://www.melody.tv/actualite/julien-lepers-fete-ses-72-ans-ce-jeudi-12-aout</id>
+        <link href="https://www.melody.tv/actualite/julien-lepers-fete-ses-72-ans-ce-jeudi-12-aout"/>
+        <updated>2021-08-12T09:26:00.000Z</updated>
+        <content type="html"><![CDATA[« C’est une question pour un champion ! », tout le...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album]]></title>
+        <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
+        <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
+        <updated>2021-08-19T17:36:58.013Z</updated>
+        <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le chanteur Calogero fête ses 50 ans !]]></title>
+        <id>https://www.melody.tv/actualite/le-chanteur-calogero-fete-ses-50-ans</id>
+        <link href="https://www.melody.tv/actualite/le-chanteur-calogero-fete-ses-50-ans"/>
+        <updated>2021-07-30T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[En 2002, CALOGERO se fait connaître avec son titre "En apesanteur".&nbsp;Le...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bon anniversaire à Christian Delagrange !]]></title>
+        <id>https://www.melody.tv/actualite/bon-anniversaire-a-christian-delagrange</id>
+        <link href="https://www.melody.tv/actualite/bon-anniversaire-a-christian-delagrange"/>
+        <updated>2021-07-28T09:00:00.000Z</updated>
+        <content type="html"><![CDATA["Tendre Cathy", "J'aime la vie avec toi", "Les larmes aux yeux",...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La tournée Johnny Symphonique Tour va sillonner dans la France]]></title>
+        <id>https://www.melody.tv/actualite/la-tournee-johnny-symphonique-tour-va-sillonner-dans-la-france</id>
+        <link href="https://www.melody.tv/actualite/la-tournee-johnny-symphonique-tour-va-sillonner-dans-la-france"/>
+        <updated>2021-07-23T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[Le 25 octobre 2019 sortait « Johnny », un album posthume...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melody moi tout : 5 anecdotes sur le crooner et chanteur Dany Brillant]]></title>
+        <id>https://www.melody.tv/actualite/melody-moi-tout-5-anecdotes-sur-le-crooner-et-chanteur-dany-brillant</id>
+        <link href="https://www.melody.tv/actualite/melody-moi-tout-5-anecdotes-sur-le-crooner-et-chanteur-dany-brillant"/>
+        <updated>2021-07-20T09:32:00.000Z</updated>
+        <content type="html"><![CDATA[De «&nbsp;Suzette&nbsp;» à l’album hommage à Charles Aznavour,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zizi Jeanmaire, l’actrice]]></title>
+        <id>https://www.melody.tv/actualite/zizi-jeanmaire-l-actrice</id>
+        <link href="https://www.melody.tv/actualite/zizi-jeanmaire-l-actrice"/>
+        <updated>2021-07-17T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[Connue pour son talent de danseuse, mais aussi pour sa gouaille...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zizi Jeanmaire : figure emblématique des revues]]></title>
+        <id>https://www.melody.tv/actualite/zizi-jeanmaire-figure-emblematique-des-revues</id>
+        <link href="https://www.melody.tv/actualite/zizi-jeanmaire-figure-emblematique-des-revues"/>
+        <updated>2021-07-16T09:12:00.000Z</updated>
+        <content type="html"><![CDATA[Il y a pile un an, le 17 juillet 2020, une grande dame de la...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disquaire day 2021 le 17 juillet]]></title>
+        <id>https://www.melody.tv/actualite/disquaire-day-2021-le-17-juillet</id>
+        <link href="https://www.melody.tv/actualite/disquaire-day-2021-le-17-juillet"/>
+        <updated>2021-07-15T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[C’est la journée des disquaires indépendants ce samedi 17...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'animatrice Dorothée fête ses 68 ans !]]></title>
+        <id>https://www.melody.tv/actualite/lanimatrice-dorothee-fete-ses-68-ans</id>
+        <link href="https://www.melody.tv/actualite/lanimatrice-dorothee-fete-ses-68-ans"/>
+        <updated>2021-07-14T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[On ne la présente plus ! Animatrice de Recré A2 de 1978 à...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disparition de la réalisatrice Marion Sarraut, à l’âge de 82 ans]]></title>
+        <id>https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans</id>
+        <link href="https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans"/>
+        <updated>2021-08-19T17:36:58.032Z</updated>
+        <content type="html"><![CDATA[&nbsp;Célèbre pour ses shows de variétés et réalisatrice de&nbsp;« Numéro...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Les plus belles affiches du Festival de Cannes]]></title>
+        <id>https://www.melody.tv/actualite/les-plus-belles-affiches-du-festival-de-cannes</id>
+        <link href="https://www.melody.tv/actualite/les-plus-belles-affiches-du-festival-de-cannes"/>
+        <updated>2021-07-10T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[Exceptionnellement cette année, le Festival de Cannes ne se...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pierre Perret fête ses 87 ans !]]></title>
+        <id>https://www.melody.tv/actualite/pierre-perret-fete-ses-87-ans</id>
+        <link href="https://www.melody.tv/actualite/pierre-perret-fete-ses-87-ans"/>
+        <updated>2021-07-09T09:00:00.000Z</updated>
+        <content type="html"><![CDATA[L'interprète de "Lily", "Mon p'tit loup" reconnaissable avec...]]></content>
+    </entry>
 </feed>
