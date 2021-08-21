@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-08-20T05:31:45.432Z</updated>
+    <updated>2021-08-21T05:32:12.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Le bassiste de The Cure, Simon Gallup quitte le groupe]]></title>
+        <id>https://www.melody.tv/actualite/le-bassiste-de-the-cure-simon-gallup-quitte-le-groupe</id>
+        <link href="https://www.melody.tv/actualite/le-bassiste-de-the-cure-simon-gallup-quitte-le-groupe"/>
+        <updated>2021-08-21T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Après&nbsp;38 ans au sein du mythique groupe, le bassiste Simon...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pascal Obispo sort un nouveau single « A qui dire qu’on est seul]]></title>
         <id>https://www.melody.tv/actualite/pascal-obispo-sort-un-nouveau-single-a-qui-dire-qu-on-est-seul</id>
@@ -51,7 +58,7 @@
         <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album]]></title>
         <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
         <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-08-20T05:31:41.427Z</updated>
+        <updated>2021-08-21T05:32:08.078Z</updated>
         <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
     <entry>
@@ -114,14 +121,7 @@
         <title type="html"><![CDATA[Disparition de la réalisatrice Marion Sarraut, à l’âge de 82 ans]]></title>
         <id>https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans</id>
         <link href="https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans"/>
-        <updated>2021-08-20T05:31:41.439Z</updated>
+        <updated>2021-08-21T05:32:08.093Z</updated>
         <content type="html"><![CDATA[&nbsp;Célèbre pour ses shows de variétés et réalisatrice de&nbsp;« Numéro...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les plus belles affiches du Festival de Cannes]]></title>
-        <id>https://www.melody.tv/actualite/les-plus-belles-affiches-du-festival-de-cannes</id>
-        <link href="https://www.melody.tv/actualite/les-plus-belles-affiches-du-festival-de-cannes"/>
-        <updated>2021-07-10T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[Exceptionnellement cette année, le Festival de Cannes ne se...]]></content>
     </entry>
 </feed>
