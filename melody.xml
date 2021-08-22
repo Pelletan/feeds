@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-08-22T05:32:10.337Z</updated>
+    <updated>2021-08-22T17:35:22.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
     <entry>
@@ -58,7 +58,7 @@
         <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album]]></title>
         <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
         <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-08-22T05:32:05.880Z</updated>
+        <updated>2021-08-22T17:35:17.573Z</updated>
         <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
     <entry>
@@ -121,7 +121,7 @@
         <title type="html"><![CDATA[Disparition de la réalisatrice Marion Sarraut, à l’âge de 82 ans]]></title>
         <id>https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans</id>
         <link href="https://www.melody.tv/actualite/disparition-de-la-realisatrice-marion-sarraut-a-l-age-de-82-ans"/>
-        <updated>2021-08-22T05:32:05.893Z</updated>
+        <updated>2021-08-22T17:35:17.616Z</updated>
         <content type="html"><![CDATA[&nbsp;Célèbre pour ses shows de variétés et réalisatrice de&nbsp;« Numéro...]]></content>
     </entry>
 </feed>
