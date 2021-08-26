@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-08-25T17:36:27.394Z</updated>
+    <updated>2021-08-26T17:36:25.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-08-25T17:36:22.271Z</updated>
+        <updated>2021-08-26T17:36:19.683Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -65,7 +65,7 @@
         <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album]]></title>
         <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
         <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-08-25T17:36:22.294Z</updated>
+        <updated>2021-08-26T17:36:19.759Z</updated>
         <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
     <entry>
