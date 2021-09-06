@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pelletan.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-06T05:32:04.733Z</updated>
+    <updated>2021-09-06T17:36:18.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Jean-Paul BELMONDO est décédé à l'âge de 88 ans (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans</id>
+        <link href="https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans"/>
+        <updated>2021-09-06T17:36:14.363Z</updated>
+        <content type="html"><![CDATA[C’est l’un des monuments du cinéma français qui s’éteint....]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pourquoi Annie Cordy a obtenu le titre de Baronne ? (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/pourquoi-annie-cordy-a-obtenu-le-titre-de-baronne</id>
@@ -12,18 +19,18 @@
         <content type="html"><![CDATA[Symbole de la chanson francophone, Annie CORDY a été honorée...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zoom sur la carrière d’actrice d’Annie Cordy (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy</id>
-        <link href="https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy"/>
-        <updated>2021-09-04T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[«&nbsp;Le passager de la pluie&nbsp;», «&nbsp;Le chanteur de Mexico&nbsp;»,...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[L’exposition « Si tu t’imagines » à Saint-Tropez, en hommage à Juliette Gréco (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco</id>
         <link href="https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco"/>
         <updated>2021-09-04T07:00:00.000Z</updated>
         <content type="html"><![CDATA[La ville de Saint-Tropez&nbsp;retrace&nbsp;le&nbsp;parcours artistique&nbsp;de...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom sur la carrière d’actrice d’Annie Cordy (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy</id>
+        <link href="https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy"/>
+        <updated>2021-09-04T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[«&nbsp;Le passager de la pluie&nbsp;», «&nbsp;Le chanteur de Mexico&nbsp;»,...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20 ans après, Gérard Lenorman est de retour avec un nouvel album le 8 octobre (Melody TV)]]></title>
@@ -50,7 +57,7 @@
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-09-06T05:32:00.107Z</updated>
+        <updated>2021-09-06T17:36:14.381Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -106,7 +113,7 @@
         <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
         <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-09-06T05:32:00.276Z</updated>
+        <updated>2021-09-06T17:36:14.393Z</updated>
         <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
     <entry>
@@ -117,66 +124,59 @@
         <content type="html"><![CDATA[En 2002, CALOGERO se fait connaître avec son titre "En apesanteur".&nbsp;Le...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bon anniversaire à Christian Delagrange ! (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/bon-anniversaire-a-christian-delagrange</id>
-        <link href="https://www.melody.tv/actualite/bon-anniversaire-a-christian-delagrange"/>
-        <updated>2021-07-28T09:00:00.000Z</updated>
-        <content type="html"><![CDATA["Tendre Cathy", "J'aime la vie avec toi", "Les larmes aux yeux",...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Haku Rakuten (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Haku_Rakuten</id>
         <link href="https://en.wikipedia.org/wiki/Haku_Rakuten"/>
-        <updated>2021-09-06T05:32:03.957Z</updated>
+        <updated>2021-09-06T17:36:17.421Z</updated>
         <content type="html"><![CDATA[... that the <a href="/wiki/Noh" title="Noh">Noh</a> play <i><b><a href="/wiki/Haku_Rakuten" title="Haku Rakuten">Haku Rakuten</a></b></i> is parodied in a woodblock print <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mary V. R. Thayer (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Mary_V._R._Thayer</id>
         <link href="https://en.wikipedia.org/wiki/Mary_V._R._Thayer"/>
-        <updated>2021-09-06T05:32:03.957Z</updated>
+        <updated>2021-09-06T17:36:17.423Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Mary_V._R._Thayer" title="Mary V. R. Thayer">Mary V.&nbsp;R. Thayer</a></b> was briefly arrested on suspicion of spying after abandoning a 1929 business trip in the Soviet Union to explore the <a href="/wiki/Caucasus" title="Caucasus">Caucasus</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[conidiobolomycosis (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Conidiobolomycosis</id>
         <link href="https://en.wikipedia.org/wiki/Conidiobolomycosis"/>
-        <updated>2021-09-06T05:32:03.965Z</updated>
+        <updated>2021-09-06T17:36:17.424Z</updated>
         <content type="html"><![CDATA[... that the fungal infection <b><a href="/wiki/Conidiobolomycosis" title="Conidiobolomycosis">conidiobolomycosis</a></b> mainly affects people living in tropical areas but was first reported in horses in Texas?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[James Sofronas (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/James_Sofronas</id>
         <link href="https://en.wikipedia.org/wiki/James_Sofronas"/>
-        <updated>2021-09-06T05:32:03.965Z</updated>
+        <updated>2021-09-06T17:36:17.425Z</updated>
         <content type="html"><![CDATA[... that racing driver <b><a href="/wiki/James_Sofronas" title="James Sofronas">James Sofronas</a></b> worked as a salesman for a technology company to buy the <a href="/wiki/Nissan_NX" title="Nissan NX">Nissan&nbsp;NX</a> 2000 required for his first competitive race?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nature Always Wins (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Nature_Always_Wins</id>
         <link href="https://en.wikipedia.org/wiki/Nature_Always_Wins"/>
-        <updated>2021-09-06T05:32:03.965Z</updated>
+        <updated>2021-09-06T17:36:17.427Z</updated>
         <content type="html"><![CDATA[... that a track on <a href="/wiki/Max%C3%AFmo_Park" title="Maxïmo Park">Maxïmo Park</a>'s album <i><b><a href="/wiki/Nature_Always_Wins" title="Nature Always Wins">Nature Always Wins</a></b></i> is about Nick Alexander, the band's former merchandiser who was killed in the <a href="/wiki/November_2015_Paris_attacks" title="November 2015 Paris attacks">Bataclan concert hall attack</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alfred Koerppen (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Alfred_Koerppen</id>
         <link href="https://en.wikipedia.org/wiki/Alfred_Koerppen"/>
-        <updated>2021-09-06T05:32:03.966Z</updated>
+        <updated>2021-09-06T17:36:17.429Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Alfred_Koerppen" title="Alfred Koerppen">Alfred Koerppen</a></b>, who taught <a href="/wiki/Music_theory" title="Music theory">music theory</a> and composition at the <a href="/wiki/Hochschule_f%C3%BCr_Musik,_Theater_und_Medien_Hannover" title="Hochschule für Musik, Theater und Medien Hannover">Musikhochschule Hannover</a>, wrote the text and music of a 1951 opera after <a href="/wiki/Virgil" title="Virgil">Virgil</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Silver Deer of Bilge Khan (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Silver_Deer_of_Bilge_Khan</id>
         <link href="https://en.wikipedia.org/wiki/Silver_Deer_of_Bilge_Khan"/>
-        <updated>2021-09-06T05:32:03.967Z</updated>
+        <updated>2021-09-06T17:36:17.430Z</updated>
         <content type="html"><![CDATA[... that the <b><a href="/wiki/Silver_Deer_of_Bilge_Khan" title="Silver Deer of Bilge Khan">Silver Deer of Bilge Khan</a></b>, a 7th-century artifact, is recognized by the Mongolian government as being of "invaluable heritage"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Torreya Guardians (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Torreya_Guardians</id>
         <link href="https://en.wikipedia.org/wiki/Torreya_Guardians"/>
-        <updated>2021-09-06T05:32:03.971Z</updated>
+        <updated>2021-09-06T17:36:17.432Z</updated>
         <content type="html"><![CDATA[... that the <b><a href="/wiki/Torreya_Guardians" title="Torreya Guardians">Torreya Guardians</a></b> are trying to save the critically endangered North American conifer <i><a href="/wiki/Torreya_taxifolia" title="Torreya taxifolia">Torreya taxifolia</a></i> from extinction?]]></content>
     </entry>
 </feed>
