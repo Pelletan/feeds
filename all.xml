@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pelletan.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-04T17:35:34.422Z</updated>
+    <updated>2021-09-06T05:32:04.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[L’exposition « Si tu t’imagines » à Saint-Tropez, en hommage à Juliette Gréco (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco</id>
-        <link href="https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco"/>
-        <updated>2021-09-04T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[La ville de Saint-Tropez&nbsp;retrace&nbsp;le&nbsp;parcours artistique&nbsp;de...]]></content>
+        <title type="html"><![CDATA[Pourquoi Annie Cordy a obtenu le titre de Baronne ? (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/pourquoi-annie-cordy-a-obtenu-le-titre-de-baronne</id>
+        <link href="https://www.melody.tv/actualite/pourquoi-annie-cordy-a-obtenu-le-titre-de-baronne"/>
+        <updated>2021-09-06T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Symbole de la chanson francophone, Annie CORDY a été honorée...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zoom sur la carrière d’actrice d’Annie Cordy (Melody TV)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy"/>
         <updated>2021-09-04T07:00:00.000Z</updated>
         <content type="html"><![CDATA[«&nbsp;Le passager de la pluie&nbsp;», «&nbsp;Le chanteur de Mexico&nbsp;»,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’exposition « Si tu t’imagines » à Saint-Tropez, en hommage à Juliette Gréco (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco</id>
+        <link href="https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco"/>
+        <updated>2021-09-04T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[La ville de Saint-Tropez&nbsp;retrace&nbsp;le&nbsp;parcours artistique&nbsp;de...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20 ans après, Gérard Lenorman est de retour avec un nouvel album le 8 octobre (Melody TV)]]></title>
@@ -43,7 +50,7 @@
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-09-04T17:35:30.322Z</updated>
+        <updated>2021-09-06T05:32:00.107Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -99,7 +106,7 @@
         <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
         <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-09-04T17:35:30.334Z</updated>
+        <updated>2021-09-06T05:32:00.276Z</updated>
         <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
     <entry>
@@ -117,66 +124,59 @@
         <content type="html"><![CDATA["Tendre Cathy", "J'aime la vie avec toi", "Les larmes aux yeux",...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La tournée Johnny Symphonique Tour va sillonner dans la France (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/la-tournee-johnny-symphonique-tour-va-sillonner-dans-la-france</id>
-        <link href="https://www.melody.tv/actualite/la-tournee-johnny-symphonique-tour-va-sillonner-dans-la-france"/>
-        <updated>2021-07-23T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[Le 25 octobre 2019 sortait « Johnny », un album posthume...]]></content>
+        <title type="html"><![CDATA[Haku Rakuten (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Haku_Rakuten</id>
+        <link href="https://en.wikipedia.org/wiki/Haku_Rakuten"/>
+        <updated>2021-09-06T05:32:03.957Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Noh" title="Noh">Noh</a> play <i><b><a href="/wiki/Haku_Rakuten" title="Haku Rakuten">Haku Rakuten</a></b></i> is parodied in a woodblock print <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Malan Bridge (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Malan_Bridge</id>
-        <link href="https://en.wikipedia.org/wiki/Malan_Bridge"/>
-        <updated>2021-09-04T17:35:33.711Z</updated>
-        <content type="html"><![CDATA[... that according to legend, <b><a href="/wiki/Malan_Bridge" title="Malan Bridge">Malan Bridge</a></b> <i>(pictured)</i> was built by two mythical princesses who mixed egg shells with clay to create a bridge stronger than steel?]]></content>
+        <title type="html"><![CDATA[Mary V. R. Thayer (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Mary_V._R._Thayer</id>
+        <link href="https://en.wikipedia.org/wiki/Mary_V._R._Thayer"/>
+        <updated>2021-09-06T05:32:03.957Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Mary_V._R._Thayer" title="Mary V. R. Thayer">Mary V.&nbsp;R. Thayer</a></b> was briefly arrested on suspicion of spying after abandoning a 1929 business trip in the Soviet Union to explore the <a href="/wiki/Caucasus" title="Caucasus">Caucasus</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aaron Pike (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Aaron_Pike_(athlete)</id>
-        <link href="https://en.wikipedia.org/wiki/Aaron_Pike_(athlete)"/>
-        <updated>2021-09-04T17:35:33.712Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Aaron_Pike_(athlete)" title="Aaron Pike (athlete)">Aaron Pike</a></b> has competed in <a href="/wiki/Wheelchair_racing" title="Wheelchair racing">wheelchair racing</a> at three <a href="/wiki/Summer_Paralympic_Games" title="Summer Paralympic Games">Summer Paralympics</a>, and in both <a href="/wiki/Biathlon" title="Biathlon">biathlon</a> and <a href="/wiki/Cross-country_skiing" title="Cross-country skiing">cross-country skiing</a> at two <a href="/wiki/Winter_Paralympic_Games" title="Winter Paralympic Games">Winter Paralympics</a>?]]></content>
+        <title type="html"><![CDATA[conidiobolomycosis (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Conidiobolomycosis</id>
+        <link href="https://en.wikipedia.org/wiki/Conidiobolomycosis"/>
+        <updated>2021-09-06T05:32:03.965Z</updated>
+        <content type="html"><![CDATA[... that the fungal infection <b><a href="/wiki/Conidiobolomycosis" title="Conidiobolomycosis">conidiobolomycosis</a></b> mainly affects people living in tropical areas but was first reported in horses in Texas?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geistliches Lied (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Geistliches_Lied</id>
-        <link href="https://en.wikipedia.org/wiki/Geistliches_Lied"/>
-        <updated>2021-09-04T17:35:33.714Z</updated>
-        <content type="html"><![CDATA[... that the opening of <i><b><a href="/wiki/Geistliches_Lied" title="Geistliches Lied">Geistliches Lied</a></b></i> by <a href="/wiki/Johannes_Brahms" title="Johannes Brahms">Johannes Brahms</a> possibly references <a href="/wiki/Clara_Schumann" title="Clara Schumann">Clara Schumann</a>'s fantasy of playing <a href="/wiki/Robert_Schumann" title="Robert Schumann">her husband</a>'s music on the <a href="/wiki/Organ_(music)" title="Organ (music)">organ</a>?]]></content>
+        <title type="html"><![CDATA[James Sofronas (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/James_Sofronas</id>
+        <link href="https://en.wikipedia.org/wiki/James_Sofronas"/>
+        <updated>2021-09-06T05:32:03.965Z</updated>
+        <content type="html"><![CDATA[... that racing driver <b><a href="/wiki/James_Sofronas" title="James Sofronas">James Sofronas</a></b> worked as a salesman for a technology company to buy the <a href="/wiki/Nissan_NX" title="Nissan NX">Nissan&nbsp;NX</a> 2000 required for his first competitive race?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Horace Harral (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Horace_Harral</id>
-        <link href="https://en.wikipedia.org/wiki/Horace_Harral"/>
-        <updated>2021-09-04T17:35:33.715Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Horace_Harral" title="Horace Harral">Horace Harral</a></b> engraved "one of the most famous photographs of the nineteenth century", <a href="/wiki/Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern" title="Isambard Kingdom Brunel Standing Before the Launching Chains of the Great Eastern">a portrait of Isambard Kingdom Brunel</a>, for publication in the <i><a href="/wiki/The_Illustrated_Times_Weekly_Newspaper" title="The Illustrated Times Weekly Newspaper">Illustrated Times</a></i>?]]></content>
+        <title type="html"><![CDATA[Nature Always Wins (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Nature_Always_Wins</id>
+        <link href="https://en.wikipedia.org/wiki/Nature_Always_Wins"/>
+        <updated>2021-09-06T05:32:03.965Z</updated>
+        <content type="html"><![CDATA[... that a track on <a href="/wiki/Max%C3%AFmo_Park" title="Maxïmo Park">Maxïmo Park</a>'s album <i><b><a href="/wiki/Nature_Always_Wins" title="Nature Always Wins">Nature Always Wins</a></b></i> is about Nick Alexander, the band's former merchandiser who was killed in the <a href="/wiki/November_2015_Paris_attacks" title="November 2015 Paris attacks">Bataclan concert hall attack</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rhodesia Information Centre (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Rhodesia_Information_Centre</id>
-        <link href="https://en.wikipedia.org/wiki/Rhodesia_Information_Centre"/>
-        <updated>2021-09-04T17:35:33.717Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Rhodesia_Information_Centre" title="Rhodesia Information Centre">Rhodesia Information Centre</a></b> spread <a href="/wiki/Propaganda" title="Propaganda">propaganda</a> about <a href="/wiki/Rhodesia" title="Rhodesia">Rhodesia</a> in Australia?]]></content>
+        <title type="html"><![CDATA[Alfred Koerppen (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Alfred_Koerppen</id>
+        <link href="https://en.wikipedia.org/wiki/Alfred_Koerppen"/>
+        <updated>2021-09-06T05:32:03.966Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Alfred_Koerppen" title="Alfred Koerppen">Alfred Koerppen</a></b>, who taught <a href="/wiki/Music_theory" title="Music theory">music theory</a> and composition at the <a href="/wiki/Hochschule_f%C3%BCr_Musik,_Theater_und_Medien_Hannover" title="Hochschule für Musik, Theater und Medien Hannover">Musikhochschule Hannover</a>, wrote the text and music of a 1951 opera after <a href="/wiki/Virgil" title="Virgil">Virgil</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sevastijan Dabović (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Sevastijan_Dabovi%C4%87</id>
-        <link href="https://en.wikipedia.org/wiki/Sevastijan_Dabovi%C4%87"/>
-        <updated>2021-09-04T17:35:33.718Z</updated>
-        <content type="html"><![CDATA[... that bishop <a href="/wiki/Nikolaj_Velimirovi%C4%87" title="Nikolaj Velimirović">Nikolaj Velimirović</a> called <b><a href="/wiki/Sevastijan_Dabovi%C4%87" title="Sevastijan Dabović">Sevastijan Dabović</a></b> the greatest Serbian missionary of modern times?]]></content>
+        <title type="html"><![CDATA[Silver Deer of Bilge Khan (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Silver_Deer_of_Bilge_Khan</id>
+        <link href="https://en.wikipedia.org/wiki/Silver_Deer_of_Bilge_Khan"/>
+        <updated>2021-09-06T05:32:03.967Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Silver_Deer_of_Bilge_Khan" title="Silver Deer of Bilge Khan">Silver Deer of Bilge Khan</a></b>, a 7th-century artifact, is recognized by the Mongolian government as being of "invaluable heritage"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One potato, two potato (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/One_potato,_two_potato</id>
-        <link href="https://en.wikipedia.org/wiki/One_potato,_two_potato"/>
-        <updated>2021-09-04T17:35:33.719Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Counting-out_game" title="Counting-out game">counting-out rhyme</a> "<b><a href="/wiki/One_potato,_two_potato" title="One potato, two potato">One potato, two potato</a></b>" is more than 135 years old?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mahama Refugee Camp (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Mahama_Refugee_Camp</id>
-        <link href="https://en.wikipedia.org/wiki/Mahama_Refugee_Camp"/>
-        <updated>2021-09-04T17:35:33.720Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Burundian_unrest_(2015%E2%80%932018)" title="Burundian unrest (2015–2018)">thousands of people who fled Burundi</a> have taken refuge in Rwanda's <b><a href="/wiki/Mahama_Refugee_Camp" title="Mahama Refugee Camp">Mahama Refugee Camp</a></b>, but only one has competed in the <a href="/wiki/Paralympic_Games" title="Paralympic Games">Paralympics</a>?]]></content>
+        <title type="html"><![CDATA[Torreya Guardians (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Torreya_Guardians</id>
+        <link href="https://en.wikipedia.org/wiki/Torreya_Guardians"/>
+        <updated>2021-09-06T05:32:03.971Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Torreya_Guardians" title="Torreya Guardians">Torreya Guardians</a></b> are trying to save the critically endangered North American conifer <i><a href="/wiki/Torreya_taxifolia" title="Torreya taxifolia">Torreya taxifolia</a></i> from extinction?]]></content>
     </entry>
 </feed>
