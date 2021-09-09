@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pelletan.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-06T17:36:18.032Z</updated>
+    <updated>2021-09-09T17:36:43.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Que se cache derrière le titre « Tata Yoyo » ? (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/que-se-cache-derriere-le-titre-tata-yoyo</id>
+        <link href="https://www.melody.tv/actualite/que-se-cache-derriere-le-titre-tata-yoyo"/>
+        <updated>2021-09-08T11:34:00.000Z</updated>
+        <content type="html"><![CDATA[Tube Hexagonal de 1980, «&nbsp;Tata Yoyo&nbsp;» a fait danser tous...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jean-Paul BELMONDO est décédé à l'âge de 88 ans (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans</id>
         <link href="https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans"/>
-        <updated>2021-09-06T17:36:14.363Z</updated>
+        <updated>2021-09-09T17:36:38.649Z</updated>
         <content type="html"><![CDATA[C’est l’un des monuments du cinéma français qui s’éteint....]]></content>
     </entry>
     <entry>
@@ -19,18 +26,18 @@
         <content type="html"><![CDATA[Symbole de la chanson francophone, Annie CORDY a été honorée...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L’exposition « Si tu t’imagines » à Saint-Tropez, en hommage à Juliette Gréco (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco</id>
-        <link href="https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco"/>
-        <updated>2021-09-04T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[La ville de Saint-Tropez&nbsp;retrace&nbsp;le&nbsp;parcours artistique&nbsp;de...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zoom sur la carrière d’actrice d’Annie Cordy (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy</id>
         <link href="https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy"/>
         <updated>2021-09-04T07:00:00.000Z</updated>
         <content type="html"><![CDATA[«&nbsp;Le passager de la pluie&nbsp;», «&nbsp;Le chanteur de Mexico&nbsp;»,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L’exposition « Si tu t’imagines » à Saint-Tropez, en hommage à Juliette Gréco (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco</id>
+        <link href="https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco"/>
+        <updated>2021-09-04T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[La ville de Saint-Tropez&nbsp;retrace&nbsp;le&nbsp;parcours artistique&nbsp;de...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20 ans après, Gérard Lenorman est de retour avec un nouvel album le 8 octobre (Melody TV)]]></title>
@@ -51,13 +58,13 @@
         <id>https://www.melody.tv/actualite/joyeux-anniversaire-a-la-chanteuse-enzo-enzo-qui-fete-ses-62-ans</id>
         <link href="https://www.melody.tv/actualite/joyeux-anniversaire-a-la-chanteuse-enzo-enzo-qui-fete-ses-62-ans"/>
         <updated>2021-08-29T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[Né le 29 août 1959, Körin Ternovtzeff, dite ENZO ENZO...]]></content>
+        <content type="html"><![CDATA[Née le 29 août 1959, Körin Ternovtzeff, dite ENZO ENZO...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-09-06T17:36:14.381Z</updated>
+        <updated>2021-09-09T17:36:38.677Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -68,16 +75,16 @@
         <content type="html"><![CDATA[Après&nbsp;38 ans au sein du mythique groupe, le bassiste Simon...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pascal Obispo sort un nouveau single « A qui dire qu’on est seul (Melody TV)]]></title>
+        <title type="html"><![CDATA[Pascal Obispo sort un nouveau single "A qui dire qu’on est seul" (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/pascal-obispo-sort-un-nouveau-single-a-qui-dire-qu-on-est-seul</id>
         <link href="https://www.melody.tv/actualite/pascal-obispo-sort-un-nouveau-single-a-qui-dire-qu-on-est-seul"/>
         <updated>2021-08-20T07:00:00.000Z</updated>
         <content type="html"><![CDATA[Mardi 17 août, le chanteur dévoile une nouvelle chanson, faisant...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Les albums de Madonna vont être réédité par Warner Music en 2022 (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/les-albums-de-madonna-vont-etre-reedite-par-warner-music-en-2022</id>
-        <link href="https://www.melody.tv/actualite/les-albums-de-madonna-vont-etre-reedite-par-warner-music-en-2022"/>
+        <title type="html"><![CDATA[Les albums de Madonna vont être réédités par Warner Music en 2022 (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/les-albums-de-madonna-vont-etre-reedites-par-warner-music-en-2022</id>
+        <link href="https://www.melody.tv/actualite/les-albums-de-madonna-vont-etre-reedites-par-warner-music-en-2022"/>
         <updated>2021-08-19T07:00:00.000Z</updated>
         <content type="html"><![CDATA[Entre 2022 et 2025, 17 albums&nbsp;studio seront réédités&nbsp;par...]]></content>
     </entry>
@@ -113,70 +120,63 @@
         <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
         <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-09-06T17:36:14.393Z</updated>
+        <updated>2021-09-09T17:36:38.711Z</updated>
         <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le chanteur Calogero fête ses 50 ans ! (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/le-chanteur-calogero-fete-ses-50-ans</id>
-        <link href="https://www.melody.tv/actualite/le-chanteur-calogero-fete-ses-50-ans"/>
-        <updated>2021-07-30T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[En 2002, CALOGERO se fait connaître avec son titre "En apesanteur".&nbsp;Le...]]></content>
+        <title type="html"><![CDATA[Tanz im August (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Tanz_im_August</id>
+        <link href="https://en.wikipedia.org/wiki/Tanz_im_August"/>
+        <updated>2021-09-09T17:36:42.325Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Tanz_im_August" title="Tanz im August">Tanz im August</a></b>, an annual international festival of <a href="/wiki/Contemporary_dance" title="Contemporary dance">contemporary dance</a> in Berlin, was founded by <a href="/wiki/Nele_Hertling" title="Nele Hertling">Nele Hertling</a> <i>(pictured)</i> in 1988?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haku Rakuten (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Haku_Rakuten</id>
-        <link href="https://en.wikipedia.org/wiki/Haku_Rakuten"/>
-        <updated>2021-09-06T17:36:17.421Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Noh" title="Noh">Noh</a> play <i><b><a href="/wiki/Haku_Rakuten" title="Haku Rakuten">Haku Rakuten</a></b></i> is parodied in a woodblock print <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[George McCubbin (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/George_McCubbin</id>
+        <link href="https://en.wikipedia.org/wiki/George_McCubbin"/>
+        <updated>2021-09-09T17:36:42.328Z</updated>
+        <content type="html"><![CDATA[... that 18-year-old <b><a href="/wiki/George_McCubbin" title="George McCubbin">George McCubbin</a></b> piloted the aircraft that shot down German ace <a href="/wiki/Max_Immelmann" title="Max Immelmann">Max Immelmann</a> in 1916?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mary V. R. Thayer (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Mary_V._R._Thayer</id>
-        <link href="https://en.wikipedia.org/wiki/Mary_V._R._Thayer"/>
-        <updated>2021-09-06T17:36:17.423Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Mary_V._R._Thayer" title="Mary V. R. Thayer">Mary V.&nbsp;R. Thayer</a></b> was briefly arrested on suspicion of spying after abandoning a 1929 business trip in the Soviet Union to explore the <a href="/wiki/Caucasus" title="Caucasus">Caucasus</a>?]]></content>
+        <title type="html"><![CDATA[Chevelon Creek Bridge (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Chevelon_Creek_Bridge</id>
+        <link href="https://en.wikipedia.org/wiki/Chevelon_Creek_Bridge"/>
+        <updated>2021-09-09T17:36:42.347Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Chevelon_Creek_Bridge" title="Chevelon Creek Bridge">Chevelon Creek Bridge</a></b>, built in Arizona in 1912–1913, was part of one of America's first national highways?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[conidiobolomycosis (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Conidiobolomycosis</id>
-        <link href="https://en.wikipedia.org/wiki/Conidiobolomycosis"/>
-        <updated>2021-09-06T17:36:17.424Z</updated>
-        <content type="html"><![CDATA[... that the fungal infection <b><a href="/wiki/Conidiobolomycosis" title="Conidiobolomycosis">conidiobolomycosis</a></b> mainly affects people living in tropical areas but was first reported in horses in Texas?]]></content>
+        <title type="html"><![CDATA[Franz Josef Altenburg (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Franz_Josef_Altenburg</id>
+        <link href="https://en.wikipedia.org/wiki/Franz_Josef_Altenburg"/>
+        <updated>2021-09-09T17:36:42.348Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Ceramic_art" title="Ceramic art">ceramicist</a> <b><a href="/wiki/Franz_Josef_Altenburg" title="Franz Josef Altenburg">Franz Josef Altenburg</a></b> was honoured with an exhibition of his art at Austria's <a href="/wiki/Kaiservilla" title="Kaiservilla">Kaiservilla</a> where he was born?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[James Sofronas (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/James_Sofronas</id>
-        <link href="https://en.wikipedia.org/wiki/James_Sofronas"/>
-        <updated>2021-09-06T17:36:17.425Z</updated>
-        <content type="html"><![CDATA[... that racing driver <b><a href="/wiki/James_Sofronas" title="James Sofronas">James Sofronas</a></b> worked as a salesman for a technology company to buy the <a href="/wiki/Nissan_NX" title="Nissan NX">Nissan&nbsp;NX</a> 2000 required for his first competitive race?]]></content>
+        <title type="html"><![CDATA[Day of Reckoning (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Day_of_Reckoning_(2016_film)</id>
+        <link href="https://en.wikipedia.org/wiki/Day_of_Reckoning_(2016_film)"/>
+        <updated>2021-09-09T17:36:42.350Z</updated>
+        <content type="html"><![CDATA[... that a television in the film <i><b><a href="/wiki/Day_of_Reckoning_(2016_film)" title="Day of Reckoning (2016 film)">Day of Reckoning</a></b></i> includes scenes from <i><a href="/wiki/Big_Ass_Spider!" title="Big Ass Spider!">Big Ass Spider!</a></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nature Always Wins (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Nature_Always_Wins</id>
-        <link href="https://en.wikipedia.org/wiki/Nature_Always_Wins"/>
-        <updated>2021-09-06T17:36:17.427Z</updated>
-        <content type="html"><![CDATA[... that a track on <a href="/wiki/Max%C3%AFmo_Park" title="Maxïmo Park">Maxïmo Park</a>'s album <i><b><a href="/wiki/Nature_Always_Wins" title="Nature Always Wins">Nature Always Wins</a></b></i> is about Nick Alexander, the band's former merchandiser who was killed in the <a href="/wiki/November_2015_Paris_attacks" title="November 2015 Paris attacks">Bataclan concert hall attack</a>?]]></content>
+        <title type="html"><![CDATA[Safad El Battikh (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Safad_El_Battikh</id>
+        <link href="https://en.wikipedia.org/wiki/Safad_El_Battikh"/>
+        <updated>2021-09-09T17:36:42.352Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Southern_Lebanon" title="Southern Lebanon">Southern Lebanese</a> villages of <b><a href="/wiki/Safad_El_Battikh" title="Safad El Battikh">Safad El Battikh</a></b>, <a href="/wiki/Kafra,_Lebanon" title="Kafra, Lebanon">Kafra</a> and  <a href="/wiki/Ayta_al-Jabal" title="Ayta al-Jabal">Ayta al-Jabal</a> were mentioned in 1596 <a href="/wiki/Defter" title="Defter">Ottoman tax records</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alfred Koerppen (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Alfred_Koerppen</id>
-        <link href="https://en.wikipedia.org/wiki/Alfred_Koerppen"/>
-        <updated>2021-09-06T17:36:17.429Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Alfred_Koerppen" title="Alfred Koerppen">Alfred Koerppen</a></b>, who taught <a href="/wiki/Music_theory" title="Music theory">music theory</a> and composition at the <a href="/wiki/Hochschule_f%C3%BCr_Musik,_Theater_und_Medien_Hannover" title="Hochschule für Musik, Theater und Medien Hannover">Musikhochschule Hannover</a>, wrote the text and music of a 1951 opera after <a href="/wiki/Virgil" title="Virgil">Virgil</a>?]]></content>
+        <title type="html"><![CDATA[Lucien Brouha (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Lucien_Brouha</id>
+        <link href="https://en.wikipedia.org/wiki/Lucien_Brouha"/>
+        <updated>2021-09-09T17:36:42.353Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Harvard_step_test" title="Harvard step test">Harvard step test</a>, developed by <b><a href="/wiki/Lucien_Brouha" title="Lucien Brouha">Lucien Brouha</a></b> in 1942, is still used as a reference when developing fitness tests?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Silver Deer of Bilge Khan (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Silver_Deer_of_Bilge_Khan</id>
-        <link href="https://en.wikipedia.org/wiki/Silver_Deer_of_Bilge_Khan"/>
-        <updated>2021-09-06T17:36:17.430Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Silver_Deer_of_Bilge_Khan" title="Silver Deer of Bilge Khan">Silver Deer of Bilge Khan</a></b>, a 7th-century artifact, is recognized by the Mongolian government as being of "invaluable heritage"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torreya Guardians (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Torreya_Guardians</id>
-        <link href="https://en.wikipedia.org/wiki/Torreya_Guardians"/>
-        <updated>2021-09-06T17:36:17.432Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Torreya_Guardians" title="Torreya Guardians">Torreya Guardians</a></b> are trying to save the critically endangered North American conifer <i><a href="/wiki/Torreya_taxifolia" title="Torreya taxifolia">Torreya taxifolia</a></i> from extinction?]]></content>
+        <title type="html"><![CDATA[actual play (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Actual_play</id>
+        <link href="https://en.wikipedia.org/wiki/Actual_play"/>
+        <updated>2021-09-09T17:36:42.355Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Actual_play" title="Actual play">actual play</a></b> shows have helped to improve the representation of women, <a href="/wiki/Person_of_color" title="Person of color">people of color</a>, and <a href="/wiki/LGBT" title="LGBT">LGBT</a> people in <a href="/wiki/Tabletop_role-playing_game" title="Tabletop role-playing game">tabletop gaming</a>?]]></content>
     </entry>
 </feed>
