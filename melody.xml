@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-09-10T05:32:17.312Z</updated>
+    <updated>2021-09-10T17:35:28.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zaz de retour avec son 5ème album]]></title>
+        <id>https://www.melody.tv/actualite/zaz-de-retour-avec-son-5eme-album</id>
+        <link href="https://www.melody.tv/actualite/zaz-de-retour-avec-son-5eme-album"/>
+        <updated>2021-09-10T11:51:00.000Z</updated>
+        <content type="html"><![CDATA[Après 3 ans d’absence en studio, la chanteuse de jazz revient&nbsp;avec&nbsp;un...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Que se cache derrière le titre « Tata Yoyo » ?]]></title>
         <id>https://www.melody.tv/actualite/que-se-cache-derriere-le-titre-tata-yoyo</id>
@@ -16,7 +23,7 @@
         <title type="html"><![CDATA[Jean-Paul BELMONDO est décédé à l'âge de 88 ans]]></title>
         <id>https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans</id>
         <link href="https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans"/>
-        <updated>2021-09-10T05:32:12.895Z</updated>
+        <updated>2021-09-10T17:35:23.125Z</updated>
         <content type="html"><![CDATA[C’est l’un des monuments du cinéma français qui s’éteint....]]></content>
     </entry>
     <entry>
@@ -65,7 +72,7 @@
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-09-10T05:32:12.911Z</updated>
+        <updated>2021-09-10T17:35:23.138Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -116,12 +123,5 @@
         <link href="https://www.melody.tv/actualite/julien-lepers-fete-ses-72-ans-ce-jeudi-12-aout"/>
         <updated>2021-08-12T09:26:00.000Z</updated>
         <content type="html"><![CDATA[« C’est une question pour un champion ! », tout le...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L’acteur Daniel Auteuil sort son premier album]]></title>
-        <id>https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album</id>
-        <link href="https://www.melody.tv/actualite/l-acteur-daniel-auteuil-sort-son-premier-album"/>
-        <updated>2021-09-10T05:32:12.923Z</updated>
-        <content type="html"><![CDATA[Après l’humoriste Didier Bourbon, ex-membre des Inconnus,...]]></content>
     </entry>
 </feed>
