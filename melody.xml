@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-09-13T17:34:57.374Z</updated>
+    <updated>2021-09-14T17:35:48.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Souhaitons un joyeux anniversaire au chanteur Morten Harket !]]></title>
+        <id>https://www.melody.tv/actualite/souhaitons-un-joyeux-anniversaire-au-chanteur-morten-harket</id>
+        <link href="https://www.melody.tv/actualite/souhaitons-un-joyeux-anniversaire-au-chanteur-morten-harket"/>
+        <updated>2021-09-14T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[“A&nbsp;Kind&nbsp;of Christmas&nbsp;Card », “Spanish&nbsp;steps” sont...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elton John sort un nouvel album le 22 octobre 2021]]></title>
         <id>https://www.melody.tv/actualite/elton-john-sort-un-nouvel-album-le-22-octobre-2021</id>
@@ -30,7 +37,7 @@
         <title type="html"><![CDATA[Jean-Paul BELMONDO est décédé à l'âge de 88 ans]]></title>
         <id>https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans</id>
         <link href="https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans"/>
-        <updated>2021-09-13T17:34:52.811Z</updated>
+        <updated>2021-09-14T17:35:45.363Z</updated>
         <content type="html"><![CDATA[C’est l’un des monuments du cinéma français qui s’éteint....]]></content>
     </entry>
     <entry>
@@ -79,7 +86,7 @@
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-09-13T17:34:52.848Z</updated>
+        <updated>2021-09-14T17:35:45.372Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -116,12 +123,5 @@
         <link href="https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout"/>
         <updated>2021-08-15T07:00:00.000Z</updated>
         <content type="html"><![CDATA[Elle a enregistré 65 albums&nbsp;et 1500 chansons tout au long de...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le chanteur David Hallyday fête ses 55 ans]]></title>
-        <id>https://www.melody.tv/actualite/le-chanteur-david-hallyday-fete-ses-55-ans</id>
-        <link href="https://www.melody.tv/actualite/le-chanteur-david-hallyday-fete-ses-55-ans"/>
-        <updated>2021-08-14T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[Le premier fils de Johnny HALLYDAY et de Sylvie VARTAN, passe...]]></content>
     </entry>
 </feed>
