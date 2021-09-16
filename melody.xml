@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-09-14T17:35:48.855Z</updated>
+    <updated>2021-09-16T05:32:15.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Melody moi tout sur Mylène Farmer]]></title>
+        <id>https://www.melody.tv/actualite/melody-moi-tout-sur-mylene-farmer</id>
+        <link href="https://www.melody.tv/actualite/melody-moi-tout-sur-mylene-farmer"/>
+        <updated>2021-09-15T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Elle a fêté ses 60 ans le 12 septembre dernier... Découvrez...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Souhaitons un joyeux anniversaire au chanteur Morten Harket !]]></title>
         <id>https://www.melody.tv/actualite/souhaitons-un-joyeux-anniversaire-au-chanteur-morten-harket</id>
@@ -37,7 +44,7 @@
         <title type="html"><![CDATA[Jean-Paul BELMONDO est décédé à l'âge de 88 ans]]></title>
         <id>https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans</id>
         <link href="https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans"/>
-        <updated>2021-09-14T17:35:45.363Z</updated>
+        <updated>2021-09-16T05:32:11.079Z</updated>
         <content type="html"><![CDATA[C’est l’un des monuments du cinéma français qui s’éteint....]]></content>
     </entry>
     <entry>
@@ -86,7 +93,7 @@
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-09-14T17:35:45.372Z</updated>
+        <updated>2021-09-16T05:32:11.095Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -116,12 +123,5 @@
         <link href="https://www.melody.tv/actualite/la-chanteuse-madonna-fete-ses-63-ans-ce-lundi-16-aout"/>
         <updated>2021-08-16T07:00:00.000Z</updated>
         <content type="html"><![CDATA[Déjà 63 ans pour l’incroyable chanteuse MADONNA dont la carrière&nbsp;a...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sylvie Vartan fête ses 77 ans, ce dimanche 15 août]]></title>
-        <id>https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout</id>
-        <link href="https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout"/>
-        <updated>2021-08-15T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[Elle a enregistré 65 albums&nbsp;et 1500 chansons tout au long de...]]></content>
     </entry>
 </feed>

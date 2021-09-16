@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pelletan.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-14T17:35:48.871Z</updated>
+    <updated>2021-09-16T05:32:15.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Melody moi tout sur Mylène Farmer (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/melody-moi-tout-sur-mylene-farmer</id>
+        <link href="https://www.melody.tv/actualite/melody-moi-tout-sur-mylene-farmer"/>
+        <updated>2021-09-15T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Elle a fêté ses 60 ans le 12 septembre dernier... Découvrez...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Souhaitons un joyeux anniversaire au chanteur Morten Harket ! (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/souhaitons-un-joyeux-anniversaire-au-chanteur-morten-harket</id>
@@ -36,7 +43,7 @@
         <title type="html"><![CDATA[Jean-Paul BELMONDO est décédé à l'âge de 88 ans (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans</id>
         <link href="https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans"/>
-        <updated>2021-09-14T17:35:45.363Z</updated>
+        <updated>2021-09-16T05:32:11.079Z</updated>
         <content type="html"><![CDATA[C’est l’un des monuments du cinéma français qui s’éteint....]]></content>
     </entry>
     <entry>
@@ -85,7 +92,7 @@
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-09-14T17:35:45.372Z</updated>
+        <updated>2021-09-16T05:32:11.095Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -117,66 +124,59 @@
         <content type="html"><![CDATA[Déjà 63 ans pour l’incroyable chanteuse MADONNA dont la carrière&nbsp;a...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sylvie Vartan fête ses 77 ans, ce dimanche 15 août (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout</id>
-        <link href="https://www.melody.tv/actualite/sylvie-vartan-fete-ses-77-ans-ce-dimanche-15-aout"/>
-        <updated>2021-08-15T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[Elle a enregistré 65 albums&nbsp;et 1500 chansons tout au long de...]]></content>
+        <title type="html"><![CDATA[Naga Thein Hlaing (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Naga_Thein_Hlaing</id>
+        <link href="https://en.wikipedia.org/wiki/Naga_Thein_Hlaing"/>
+        <updated>2021-09-16T05:32:14.733Z</updated>
+        <content type="html"><![CDATA[... that since he was able to cure <a href="/wiki/Goitre" title="Goitre">goitre</a>, which local <a href="/wiki/Shamanism" title="Shamanism">shamans</a> could not do, <b><a href="/wiki/Naga_Thein_Hlaing" title="Naga Thein Hlaing">Naga Thein Hlaing</a></b> <i>(pictured)</i> was recognized by the <a href="/wiki/Naga_people" title="Naga people">Naga people</a> as Naga <i><a href="/wiki/Nat_(deity)" title="Nat (deity)">Nat</a></i> and worshiped as a deity?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maungwudaus (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Maungwudaus</id>
-        <link href="https://en.wikipedia.org/wiki/Maungwudaus"/>
-        <updated>2021-09-14T17:35:48.299Z</updated>
-        <content type="html"><![CDATA[... that when it was sold in 2002, a painting of the <a href="/wiki/Ojibwe" title="Ojibwe">Ojibwe</a> performer <b><a href="/wiki/Maungwudaus" title="Maungwudaus">Maungwudaus</a></b> <i>(pictured)</i> was the second-most expensive artwork ever sold in Canada?]]></content>
+        <title type="html"><![CDATA[Koenigia islandica (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Koenigia_islandica</id>
+        <link href="https://en.wikipedia.org/wiki/Koenigia_islandica"/>
+        <updated>2021-09-16T05:32:14.734Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Koenigia_islandica" title="Koenigia islandica">Koenigia islandica</a></b></i> is considered the most hardy <a href="/wiki/Annual_plant" title="Annual plant">annual plant</a> in the world?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peter Fleischmann (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Peter_Fleischmann</id>
-        <link href="https://en.wikipedia.org/wiki/Peter_Fleischmann"/>
-        <updated>2021-09-14T17:35:48.300Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Peter_Fleischmann" title="Peter Fleischmann">Peter Fleischmann</a></b> directed the cult film <i><b><a href="/wiki/The_Hamburg_Syndrome" title="The Hamburg Syndrome">The Hamburg Syndrome</a></b></i>, which foresaw a scenario similar to the <a href="/wiki/COVID-19_pandemic" title="COVID-19 pandemic"><span class="nowrap">COVID-19</span> pandemic</a> as early as 1979?]]></content>
+        <title type="html"><![CDATA[Anthony "Big Tony" Ciulla (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Anthony_Ciulla</id>
+        <link href="https://en.wikipedia.org/wiki/Anthony_Ciulla"/>
+        <updated>2021-09-16T05:32:14.743Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Anthony_Ciulla" title="Anthony Ciulla">Anthony "Big Tony" Ciulla</a></b> had to enter the <a href="/wiki/United_States_Federal_Witness_Protection_Program" title="United States Federal Witness Protection Program">United States Federal Witness Protection Program</a> after he testified in a trial about rigged horse races?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[distance education in Chicago Public Schools in 1937 (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Distance_education_in_Chicago_Public_Schools_in_1937</id>
-        <link href="https://en.wikipedia.org/wiki/Distance_education_in_Chicago_Public_Schools_in_1937"/>
-        <updated>2021-09-14T17:35:48.301Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Distance_education_in_Chicago_Public_Schools_in_1937" title="Distance education in Chicago Public Schools in 1937">distance education in Chicago Public Schools in 1937</a></b> took place via <a href="/wiki/Radio_broadcasting" title="Radio broadcasting">radio broadcasts</a> during school closures that were spurred by a <a href="/wiki/Polio" title="Polio">polio</a> outbreak?]]></content>
+        <title type="html"><![CDATA[Alfred Fischer Hall (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Alfred_Fischer_Hall</id>
+        <link href="https://en.wikipedia.org/wiki/Alfred_Fischer_Hall"/>
+        <updated>2021-09-16T05:32:14.743Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Alfred_Fischer_Hall" title="Alfred Fischer Hall">Alfred Fischer Hall</a></b>, built as the machinery hall for a 1912 coal mine, was the venue for a <a href="/wiki/Concert_performance" title="Concert performance">concert performance</a> of Beethoven's <i><a href="/wiki/Fidelio" title="Fidelio">Fidelio</a></i> in 2021?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Christoph Strehl (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Christoph_Strehl</id>
-        <link href="https://en.wikipedia.org/wiki/Christoph_Strehl"/>
-        <updated>2021-09-14T17:35:48.301Z</updated>
-        <content type="html"><![CDATA[... that a review by <a href="/wiki/Alan_Blyth" title="Alan Blyth">Alan Blyth</a> of <a href="/wiki/Tenor" title="Tenor">tenor</a> <b><a href="/wiki/Christoph_Strehl" title="Christoph Strehl">Christoph Strehl</a></b><span class="nowrap">'s</span> performances described him as singing "with a <a href="/wiki/Fritz_Wunderlich" title="Fritz Wunderlich">Wunderlich</a>-like strength and beauty"?]]></content>
+        <title type="html"><![CDATA[Donald R. Hickey (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Donald_R._Hickey</id>
+        <link href="https://en.wikipedia.org/wiki/Donald_R._Hickey"/>
+        <updated>2021-09-16T05:32:14.743Z</updated>
+        <content type="html"><![CDATA[... that American historian <b><a href="/wiki/Donald_R._Hickey" title="Donald R. Hickey">Donald R. Hickey</a></b> was referred to as "the dean of 1812 scholarship" by <i><a href="/wiki/The_New_Yorker" title="The New Yorker">The New Yorker</a></i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WCOS-TV (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/WCOS-TV</id>
-        <link href="https://en.wikipedia.org/wiki/WCOS-TV"/>
-        <updated>2021-09-14T17:35:48.302Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a>'s first television station, <b><a href="/wiki/WCOS-TV" title="WCOS-TV"><span class="nowrap">WCOS-TV</span></a></b>, "could not stand the economic gaff" and folded less than three years after starting up?]]></content>
+        <title type="html"><![CDATA[UEFA Euro 2004 Final (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/UEFA_Euro_2004_Final</id>
+        <link href="https://en.wikipedia.org/wiki/UEFA_Euro_2004_Final"/>
+        <updated>2021-09-16T05:32:14.743Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Greece_national_football_team" title="Greece national football team">Greece</a> won the <b><a href="/wiki/UEFA_Euro_2004_Final" title="UEFA Euro 2004 Final">UEFA Euro 2004 Final</a></b> despite never having previously won a match at a major tournament?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[performance (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Textile_performance</id>
-        <link href="https://en.wikipedia.org/wiki/Textile_performance"/>
-        <updated>2021-09-14T17:35:48.303Z</updated>
-        <content type="html"><![CDATA[... that in terms of <b><a href="/wiki/Textile_performance" title="Textile performance">performance</a></b>, <a href="/wiki/Wool" title="Wool">wool</a> has been advertised as a "miracle fabric"?]]></content>
+        <title type="html"><![CDATA[2014 Bedford Gulfstream IV crash (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/2014_Bedford_Gulfstream_IV_crash</id>
+        <link href="https://en.wikipedia.org/wiki/2014_Bedford_Gulfstream_IV_crash"/>
+        <updated>2021-09-16T05:32:14.745Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/National_Transportation_Safety_Board" title="National Transportation Safety Board">National Transportation Safety Board</a> concluded that the probable cause of the <b><a href="/wiki/2014_Bedford_Gulfstream_IV_crash" title="2014 Bedford Gulfstream IV crash">2014 Bedford Gulfstream&nbsp;IV crash</a></b> was the flight crew's failure to perform the flight-control check before takeoff?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wayward Son (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Wayward_Son_(novel)</id>
-        <link href="https://en.wikipedia.org/wiki/Wayward_Son_(novel)"/>
-        <updated>2021-09-14T17:35:48.304Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Wayward_Son_(novel)" title="Wayward Son (novel)">Wayward Son</a></b></i> was described as "a delirious candy-coated romp"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barry Joule (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Barry_Joule</id>
-        <link href="https://en.wikipedia.org/wiki/Barry_Joule"/>
-        <updated>2021-09-14T17:35:48.304Z</updated>
-        <content type="html"><![CDATA[... that due to a left–right mix-up, <b><a href="/wiki/Barry_Joule" title="Barry Joule">Barry Joule</a></b> destroyed the wrong <a href="/wiki/Francis_Bacon_(artist)" title="Francis Bacon (artist)">Francis Bacon</a> painting, which would now be worth around £35&nbsp;million?]]></content>
+        <title type="html"><![CDATA[Charlie Aust (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Charlie_Aust</id>
+        <link href="https://en.wikipedia.org/wiki/Charlie_Aust"/>
+        <updated>2021-09-16T05:32:14.746Z</updated>
+        <content type="html"><![CDATA[... that the last commanding officer of the Rhodesian Light Infantry, <b><a href="/wiki/Charlie_Aust" title="Charlie Aust">Charlie Aust</a></b>, described himself as "seedy moustache, glasses and intensely ugly" so soldiers knew how to identify him?]]></content>
     </entry>
 </feed>
