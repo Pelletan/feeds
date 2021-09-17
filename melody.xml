@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.melody.tv/actualites</id>
     <title>Melody TV</title>
-    <updated>2021-09-16T05:32:15.488Z</updated>
+    <updated>2021-09-17T05:32:10.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.melody.tv/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Vanessa Paradis fait ses premiers pas au théâtre !]]></title>
+        <id>https://www.melody.tv/actualite/vanessa-paradis-fait-ses-premiers-pas-au-theatre</id>
+        <link href="https://www.melody.tv/actualite/vanessa-paradis-fait-ses-premiers-pas-au-theatre"/>
+        <updated>2021-09-17T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Avec « Maman », Vanessa Paradis se lance dans le théâtre.&nbsp;Dès...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Melody moi tout sur Mylène Farmer]]></title>
         <id>https://www.melody.tv/actualite/melody-moi-tout-sur-mylene-farmer</id>
@@ -44,7 +51,7 @@
         <title type="html"><![CDATA[Jean-Paul BELMONDO est décédé à l'âge de 88 ans]]></title>
         <id>https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans</id>
         <link href="https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans"/>
-        <updated>2021-09-16T05:32:11.079Z</updated>
+        <updated>2021-09-17T05:32:06.375Z</updated>
         <content type="html"><![CDATA[C’est l’un des monuments du cinéma français qui s’éteint....]]></content>
     </entry>
     <entry>
@@ -93,7 +100,7 @@
         <title type="html"><![CDATA[Charlie Watts, le batteur des Rolling Stones est décédé à l’âge de 80 ans]]></title>
         <id>https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans</id>
         <link href="https://www.melody.tv/actualite/charlie-watts-le-batteur-des-rolling-stones-est-decede-a-l-age-de-80-ans"/>
-        <updated>2021-09-16T05:32:11.095Z</updated>
+        <updated>2021-09-17T05:32:06.386Z</updated>
         <content type="html"><![CDATA[Il était l’un des&nbsp;artistes&nbsp;les plus reconnus dans le milieu...]]></content>
     </entry>
     <entry>
@@ -116,12 +123,5 @@
         <link href="https://www.melody.tv/actualite/les-albums-de-madonna-vont-etre-reedites-par-warner-music-en-2022"/>
         <updated>2021-08-19T07:00:00.000Z</updated>
         <content type="html"><![CDATA[Entre 2022 et 2025, 17 albums&nbsp;studio seront réédités&nbsp;par...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La chanteuse Madonna fête ses 63 ans, ce lundi 16 août !]]></title>
-        <id>https://www.melody.tv/actualite/la-chanteuse-madonna-fete-ses-63-ans-ce-lundi-16-aout</id>
-        <link href="https://www.melody.tv/actualite/la-chanteuse-madonna-fete-ses-63-ans-ce-lundi-16-aout"/>
-        <updated>2021-08-16T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[Déjà 63 ans pour l’incroyable chanteuse MADONNA dont la carrière&nbsp;a...]]></content>
     </entry>
 </feed>
