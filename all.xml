@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Pelletan.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-02T17:34:45.012Z</updated>
+    <updated>2021-10-04T05:32:08.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Un nouvel album posthume de David Bowie sortira en novembre ! (Melody TV)]]></title>
+        <id>https://www.melody.tv/actualite/un-nouvel-album-posthume-de-david-bowie-sortira-en-novembre</id>
+        <link href="https://www.melody.tv/actualite/un-nouvel-album-posthume-de-david-bowie-sortira-en-novembre"/>
+        <updated>2021-10-03T07:00:00.000Z</updated>
+        <content type="html"><![CDATA[Initialement prévu&nbsp;en 2001 et&nbsp;sur le web en 2011, l’album...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mylène Farmer publie une vidéo annonçant la billetterie de sa tournée « Nevermore » (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/mylene-farmer-publie-une-video-annoncant-la-billetterie-de-sa-tournee-nevermore</id>
@@ -99,7 +106,7 @@
         <title type="html"><![CDATA[Jean-Paul BELMONDO est décédé à l'âge de 88 ans (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans</id>
         <link href="https://www.melody.tv/actualite/jean-paul-belmondo-est-decede-a-lage-de-88-ans"/>
-        <updated>2021-10-02T17:34:40.813Z</updated>
+        <updated>2021-10-04T05:32:04.266Z</updated>
         <content type="html"><![CDATA[C’est l’un des monuments du cinéma français qui s’éteint....]]></content>
     </entry>
     <entry>
@@ -110,13 +117,6 @@
         <content type="html"><![CDATA[Symbole de la chanson francophone, Annie CORDY a été honorée...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zoom sur la carrière d’actrice d’Annie Cordy (Melody TV)]]></title>
-        <id>https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy</id>
-        <link href="https://www.melody.tv/actualite/zoom-sur-la-carriere-d-actrice-d-annie-cordy"/>
-        <updated>2021-09-04T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[«&nbsp;Le passager de la pluie&nbsp;», «&nbsp;Le chanteur de Mexico&nbsp;»,...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[L’exposition « Si tu t’imagines » à Saint-Tropez, en hommage à Juliette Gréco (Melody TV)]]></title>
         <id>https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco</id>
         <link href="https://www.melody.tv/actualite/l-exposition-si-tu-t-imagines-a-saint-tropez-en-hommage-a-juliette-greco"/>
@@ -124,59 +124,59 @@
         <content type="html"><![CDATA[La ville de Saint-Tropez&nbsp;retrace&nbsp;le&nbsp;parcours artistique&nbsp;de...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wilfried Gruhn (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Wilfried_Gruhn</id>
-        <link href="https://en.wikipedia.org/wiki/Wilfried_Gruhn"/>
-        <updated>2021-10-02T17:34:44.356Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Wilfried_Gruhn" title="Wilfried Gruhn">Wilfried Gruhn</a></b> founded a centre for early childhood music learning in <a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg</a>, based on the <a href="/wiki/Gordon_music_learning_theory" title="Gordon music learning theory">Gordon music learning theory</a>?]]></content>
+        <title type="html"><![CDATA[Sobekneferu (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Sobekneferu</id>
+        <link href="https://en.wikipedia.org/wiki/Sobekneferu"/>
+        <updated>2021-10-04T05:32:08.077Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Sobekneferu" title="Sobekneferu">Sobekneferu</a></b> <i>(bust pictured)</i> of Egypt's Twelfth Dynasty is the earliest undisputed female king to reign over ancient Egypt?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wickiup Hill (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Wickiup_Hill</id>
-        <link href="https://en.wikipedia.org/wiki/Wickiup_Hill"/>
-        <updated>2021-10-02T17:34:44.358Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Wickiup_Hill" title="Wickiup Hill">Wickiup Hill</a></b> has undocumented Native American burial grounds that are protected by <a href="/wiki/Iowa" title="Iowa">Iowa</a> law?]]></content>
+        <title type="html"><![CDATA[Iowa Authors and Their Works (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Iowa_Authors_and_Their_Works</id>
+        <link href="https://en.wikipedia.org/wiki/Iowa_Authors_and_Their_Works"/>
+        <updated>2021-10-04T05:32:08.078Z</updated>
+        <content type="html"><![CDATA[... that the 1918 book <i><b><a href="/wiki/Iowa_Authors_and_Their_Works" title="Iowa Authors and Their Works">Iowa Authors and Their Works</a></b></i> was an attempt to document all <a href="/wiki/Iowa" title="Iowa">Iowa</a> authors and their writing starting from 1880?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hubert Dunn (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Hubert_Dunn</id>
-        <link href="https://en.wikipedia.org/wiki/Hubert_Dunn"/>
-        <updated>2021-10-02T17:34:44.359Z</updated>
-        <content type="html"><![CDATA[... that the UK's former chief immigration adjudicator, Judge <b><a href="/wiki/Hubert_Dunn" title="Hubert Dunn">Hubert Dunn</a></b>, published a book on the Irish poet <a href="/wiki/Francis_Ledwidge" title="Francis Ledwidge">Francis Ledwidge</a>, including some previously unseen poems?]]></content>
+        <title type="html"><![CDATA[Squirrel Scouts (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Squirrel_Scouts_(The_Scout_Association)</id>
+        <link href="https://en.wikipedia.org/wiki/Squirrel_Scouts_(The_Scout_Association)"/>
+        <updated>2021-10-04T05:32:08.080Z</updated>
+        <content type="html"><![CDATA[... that the name of the <b><a href="/wiki/Squirrel_Scouts_(The_Scout_Association)" title="Squirrel Scouts (The Scout Association)">Squirrel Scouts</a></b> section of <a href="/wiki/The_Scout_Association" title="The Scout Association">the Scout Association</a> in the United Kingdom was inspired in part by the <a href="/wiki/Brownsea_Island#Wildlife" title="Brownsea Island">thriving population</a> of <a href="/wiki/Red_squirrel" title="Red squirrel">red squirrels</a> on <a href="/wiki/Brownsea_Island" title="Brownsea Island">Brownsea Island</a>, where Scouting began?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tarmac scam (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Tarmac_scam</id>
-        <link href="https://en.wikipedia.org/wiki/Tarmac_scam"/>
-        <updated>2021-10-02T17:34:44.365Z</updated>
-        <content type="html"><![CDATA[... that in a typical <b><a href="/wiki/Tarmac_scam" title="Tarmac scam">tarmac scam</a></b> someone at your door claims to be a builder working on a contract nearby with some <a href="/wiki/Asphalt_concrete" title="Asphalt concrete">asphalt</a> left over, and offers a cheap deal to resurface your <a href="/wiki/Driveway" title="Driveway">driveway</a> with it?]]></content>
+        <title type="html"><![CDATA[Musang King (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Musang_King</id>
+        <link href="https://en.wikipedia.org/wiki/Musang_King"/>
+        <updated>2021-10-04T05:32:08.083Z</updated>
+        <content type="html"><![CDATA[... that the pungent and bitter yet prized <b><a href="/wiki/Musang_King" title="Musang King">Musang King</a></b> has been called the "<a href="/wiki/Herm%C3%A8s" title="Hermès">Hermès</a> of <a href="/wiki/Durian" title="Durian">durian</a>"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Northern line extension (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Northern_line_extension_to_Battersea</id>
-        <link href="https://en.wikipedia.org/wiki/Northern_line_extension_to_Battersea"/>
-        <updated>2021-10-02T17:34:44.365Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Tunnel_boring_machine" title="Tunnel boring machine">tunnel boring machines</a> that dug the London's new <b><a href="/wiki/Northern_line_extension_to_Battersea" title="Northern line extension to Battersea">Northern line extension</a></b> were named after the first British astronaut <a href="/wiki/Helen_Sharman" title="Helen Sharman">Helen Sharman</a>, and British aviation pioneer <a href="/wiki/Amy_Johnson" title="Amy Johnson">Amy Johnson</a>?]]></content>
+        <title type="html"><![CDATA[Washington State Route 971 (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Washington_State_Route_971</id>
+        <link href="https://en.wikipedia.org/wiki/Washington_State_Route_971"/>
+        <updated>2021-10-04T05:32:08.085Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Washington_State_Route_971" title="Washington State Route 971">Washington State Route&nbsp;971</a></b> is the highest-numbered <a href="/wiki/State_highway" title="State highway">state highway</a> in <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three's a Crowd (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Three%27s_a_Crowd_(My_Little_Pony:_Friendship_Is_Magic)</id>
-        <link href="https://en.wikipedia.org/wiki/Three%27s_a_Crowd_(My_Little_Pony:_Friendship_Is_Magic)"/>
-        <updated>2021-10-02T17:34:44.366Z</updated>
-        <content type="html"><![CDATA[... that the <i><a href="/wiki/My_Little_Pony:_Friendship_Is_Magic" title="My Little Pony: Friendship Is Magic">My Little Pony: Friendship Is Magic</a></i> episode "<b><a href="/wiki/Three%27s_a_Crowd_(My_Little_Pony:_Friendship_Is_Magic)" title="Three's a Crowd (My Little Pony: Friendship Is Magic)">Three's a Crowd</a></b>" references <i><a href="/wiki/Fear_and_Loathing_in_Las_Vegas" title="Fear and Loathing in Las Vegas">Fear and Loathing</a></i> writer <a href="/wiki/Hunter_S._Thompson" title="Hunter S. Thompson">Hunter S. Thompson</a>?]]></content>
+        <title type="html"><![CDATA[Anyanwu (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Anyanwu_(sculpture)</id>
+        <link href="https://en.wikipedia.org/wiki/Anyanwu_(sculpture)"/>
+        <updated>2021-10-04T05:32:08.087Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> described <a href="/wiki/Ben_Enwonwu" title="Ben Enwonwu">Ben Enwonwu</a>'s sculpture <i><b><a href="/wiki/Anyanwu_(sculpture)" title="Anyanwu (sculpture)">Anyanwu</a></b></i> as "symbolic of the rising sun" of the new nation of Nigeria?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Michipicoten Provincial Park (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Michipicoten_Provincial_Park</id>
-        <link href="https://en.wikipedia.org/wiki/Michipicoten_Provincial_Park"/>
-        <updated>2021-10-02T17:34:44.371Z</updated>
-        <content type="html"><![CDATA[... that archaeologists found evidence at <b><a href="/wiki/Michipicoten_Provincial_Park" title="Michipicoten Provincial Park">Michipicoten Provincial Park</a></b> on the north shore of Canada's <a href="/wiki/Lake_Superior" title="Lake Superior">Lake Superior</a> that <a href="/wiki/Indigenous_peoples_in_Canada" title="Indigenous peoples in Canada">indigenous people</a> used the site since at least 1100&nbsp;AD?]]></content>
+        <title type="html"><![CDATA[Mabel Smyth Memorial Building (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Mabel_Smyth_Memorial_Building</id>
+        <link href="https://en.wikipedia.org/wiki/Mabel_Smyth_Memorial_Building"/>
+        <updated>2021-10-04T05:32:08.088Z</updated>
+        <content type="html"><![CDATA[... that an <a href="/wiki/Xanthosoma" title="Xanthosoma">ʻape</a>-leaf design decorates the exterior of the <b><a href="/wiki/Mabel_Smyth_Memorial_Building" title="Mabel Smyth Memorial Building">Mabel Smyth Memorial Building</a></b> in <a href="/wiki/Honolulu" title="Honolulu">Honolulu</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WMCZ (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/WQHK-FM</id>
-        <link href="https://en.wikipedia.org/wiki/WQHK-FM"/>
-        <updated>2021-10-02T17:34:44.371Z</updated>
-        <content type="html"><![CDATA[... that even the manager of Indiana radio station <b><a href="/wiki/WQHK-FM" title="WQHK-FM">WMCZ</a></b> confused it with <a href="/wiki/WMEE" title="WMEE">WMEE</a>, leading a federal judge to order the former to change its <a href="/wiki/Call_sign" title="Call sign">call sign</a>?]]></content>
+        <title type="html"><![CDATA[Thomas Parr (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Thomas_Parr_(slave_trader)</id>
+        <link href="https://en.wikipedia.org/wiki/Thomas_Parr_(slave_trader)"/>
+        <updated>2021-10-04T05:32:08.090Z</updated>
+        <content type="html"><![CDATA[... that after they met, evolutionary scientist <a href="/wiki/Charles_Darwin" title="Charles Darwin">Charles Darwin</a> described <b><a href="/wiki/Thomas_Parr_(slave_trader)" title="Thomas Parr (slave trader)">Thomas Parr</a></b> as an "old, miserly squire"?]]></content>
     </entry>
 </feed>
